@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 sun, Europa (Jupiter moon), io (juptier moon), titan (saturn moon), Pluto
 new sentance
 Mars has helicopter flying now.
+=======
+Cold and dry, but everything is my favorite color.
+The Two moons might be a problem for wolfman.
+But the mummy will appreciate the lack of humidity.
+An ill considered change.
+
+>>>>>>> c9eaae497126253bf433e405c90c7efc4f2e0580
